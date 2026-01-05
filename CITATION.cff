@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "RescueOps: Privacy-aware volunteer dispatch for stray animal aid"
+message: "If you use this software, please cite it."
+type: software
+authors:
+  - family-names: "YourFamilyName"
+    given-names: "YourGivenName"
+version: 0.1.0
+date-released: 2026-01-04
+license: MIT
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/rescueops"
+keywords:
+  - volunteering
+  - routing
+  - optimization
+  - fastapi
+  - privacy
