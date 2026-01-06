@@ -31,7 +31,7 @@ FastAPI + SQLite + Leaflet (no build tools)
 
 ### 2) Download
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/rescueops.git
+git clone https://github.com/slavasavelyev/rescueops.git
 cd rescueops
 ```
 
