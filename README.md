@@ -2,7 +2,7 @@
 **Privacy-aware volunteer dispatch for stray animal aid**  
 FastAPI + SQLite + Leaflet (no build tools)
 
-![CI](https://github.com/slavasavelyev/rescueops/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/slavasavelyev/RescueOps/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![UI demo](docs/ui.png)
