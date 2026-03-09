@@ -1,6 +1,7 @@
 # RescueOps 🐾  
 **Privacy-aware volunteer dispatch for stray animal aid**  
 FastAPI + SQLite + Leaflet (no build tools)
+https://zenodo.org/records/18154569
 
 ![CI](https://github.com/slavasavelyev/RescueOps/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
